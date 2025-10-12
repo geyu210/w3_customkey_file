@@ -901,7 +901,7 @@ Tip=Build B|cffffcc00e|rastiary
 //战争磨坊
 [ofor]
 Hotkey=C
-Tip=Build War |cffffcc00M|rill
+Tip=Build War |cffffcc00C|rill
 
 //堡垒
 [ofrt]
