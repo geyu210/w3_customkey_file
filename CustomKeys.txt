@@ -213,8 +213,8 @@ Hotkey=F
 
 //农民
 [hpea]
-Hotkey=P
-Tip=Train |cffffcc00P|reasant
+Hotkey=W
+Tip=Train |cffffcc00W|reasant
 
 //战斗号召（一个或者多个农民）
 [Amil]
@@ -780,8 +780,8 @@ Unhotkey=F
 
 //灵魂锁链
 [Aspl]
-Tip=Spirit Link -- (|cffffcc00E|r)
-Hotkey=E
+Tip=Spirit Link -- (|cffffcc00R|r)
+Hotkey=R
 
 
 /////////////////////////////
