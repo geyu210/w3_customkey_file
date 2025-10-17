@@ -20,7 +20,7 @@ Tip=Move -- (|cffffcc00D|r)移动
 Tip=|cffffcc00A|r 攻击
 Hotkey=A
 
-//attack ground
+//攻击地面
 [CmdAttackGround]
 Tip=Attack Ground -- (|cffffcc00Q|r)
 Hotkey=Q
@@ -55,17 +55,17 @@ Hotkey=B
 Tip=Cancel (|cffffcc00ESC|r)
 Hotkey=512
 
-//cancel build
+//取消建造
 [CmdCancelBuild]
 Tip=Cancel (|cffffcc00ESC|r)
 Hotkey=512
 
-//cancel train
+//取消训练
 [CmdCancelTrain]
 Tip=Cancel (|cffffcc00ESC|r)
 Hotkey=512
 
-//cancel revive
+//取消复活
 [CmdCancelRevive]
 Tip=Cancel (|cffffcc00ESC|r)
 Hotkey=512
@@ -145,340 +145,340 @@ Hotkey=U
 Hotkey=D
 Tip=Train |cffffcc00D|r 训练龙鹰骑士
 
-// Aerial Shackles
+//空中锁镣
 [Amls]
 Tip=A|cffffcc00e|rrial Shackles
 Hotkey=E
 
-// Cloud
+//乌云
 [Aclf]
 Tip=|cffffcc00C|rloud
 Hotkey=C
 
-//footman
+//步兵
 [hfoo]	
 Hotkey=F
 Tip=Train |cffffcc00F|rootman
 
-// Defend
+//防御
 [Adef]
 Tip=|cffffcc00D|refend
 Untip=Stop |cffffcc00D|refend
 Hotkey=D
 Unhotkey=D
 
-//flying machine
+//飞行机器
 [hgyr]
 Hotkey=F
 Tip=Train |cffffcc00F|rlying Machine
 
-//knight
+//骑士
 [hkni]
 Hotkey=K
 Tip=Train |cffffcc00K|rnight
 
-//priest
+//牧师
 [hmpr]
 Hotkey=P
 Tip=Train |cffffcc00P|rriest
 
-// Inner Fire
+//心灵之火
 [Ainf]
 Tip=Inner |cffffcc00F|rire
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
 Hotkey=F
 Unhotkey=F
 
-// Heal
+//医疗
 [Ahea]
 Tip=H|cffffcc00e|ral
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
 Hotkey=E
 Unhotkey=E
 
-// Dispel Magic
+//驱逐魔法
 [Adis]
 Tip=|cffffcc00D|rispel Magic
 Hotkey=D
 
-//mortar team
+//迫击炮小队
 [hmtm]
 Hotkey=M
 Tip=Train |cffffcc00M|rortar Team
 
-// Flare
+//照明弹
 [Afla]
 Tip=|cffffcc00F|rlare
 Hotkey=F
 
-//peasant
+//农民
 [hpea]
 Hotkey=P
 Tip=Train |cffffcc00P|reasant
 
-// Call to Arms (For one or several peons)
+//战斗号召（一个或者多个农民）
 [Amil]
 Tip=|cffffcc00C|rall to Arms
 Untip=Back to |cffffcc00W|rork
 Hotkey=C
 Unhotkey=W
 
-// Call to Arms (for all nearby peons, on a town hall)
+//战斗号召（让城镇大厅附近的农民都集合到一起）
 [Amic]
 Tip=|cffffcc00C|rall to Arms
 Untip=Back to |cffffcc00W|rork
 Hotkey=C
 Unhotkey=W
 
-//rifleman
+//矮人火枪手
 [hrif]
 Hotkey=R
 Tip=Train |cffffcc00R|rifleman
 
-//sorceress
+//女巫
 [hsor]
 Hotkey=S
 Tip=Train |cffffcc00S|rorceress
 
-// Slow
+//减速
 [Aslo]
 Tip=Slo|cffffcc00w|r
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
 Hotkey=W
 Unhotkey=W
 
-// Polymorph
+//变形术
 [Aply]
 Tip=Polym|cffffcc00o|rrph
 Hotkey=O
 
-// Invisibility
+//隐形术
 [Aivs]
 Tip=|cffffcc00I|rnvisibility
 Hotkey=I
 
-//spell breaker
+//魔法破坏者
 [hspt]
 Hotkey=B
 Tip=Train Spell |cffffcc00B|rreaker
 
-// Spell Steal
+//魔法盗取
 [Asps]
 Tip=Spell S|cffffcc00t|real
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
 Hotkey=T
 Unhotkey=T
 
-// Control Magic
+//控制魔法
 [Acmg]
 Tip=|cffffcc00C|rontrol Magic
 Hotkey=C
 
-//siege engine (without barrage)
+//蒸汽机车（不带弹幕攻击）
 [hmtt]
 Hotkey=E
 Tip=Train Siege |cffffcc00E|rngine
 
-//siege engine (with barrage)
+//蒸汽机车（带弹幕攻击）
 [hrtt]
 Hotkey=E
 Tip=Train Siege |cffffcc00E|rngine
 
-//gryphon rider
+//狮鹫骑士
 [hgry]
 Hotkey=G
 Tip=Train |cffffcc00G|rryphon Rider
 
 /////////////////////////////
-//Human Bldgs, Upgrades & Abilities
+//人类建筑物、升级和技能
 /////////////////////////////
 
-//control magic
+//魔法控制
 [Rhss]
 Tip=Research Control Ma|cffffcc00g|ric
 Hotkey=G
 
-//iron swords upgrades
+//剑术升级
 [Rhme]
 Tip=Upgrade to Iron Forged |cffffcc00S|rwords,Upgrade to Steel Forged |cffffcc00S|rwords,Upgrade to Mithril Forged |cffffcc00S|rwords
 Hotkey=S,S,S
 
-//gunpowder upgrades
+//火药升级
 [Rhra]
 Tip=Upgrade to Black |cffffcc00G|runpowder,Upgrade to Refined |cffffcc00G|runpowder,Upgrade to Imbued |cffffcc00G|runpowder
 Hotkey=G,G,G
 
-//iron armor upgrades
+//护甲升级
 [Rhar]
 Tip=Upgrade to Iron |cffffcc00P|rlating,Upgrade to Steel |cffffcc00P|rlating,Upgrade to Mithril |cffffcc00P|rlating
 Hotkey=P,P,P
 
-//leather armor upgrades
+//皮甲升级
 [Rhla]
 Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
 Hotkey=A,A,A
 
-//masonry upgrades
+//石工技术升级
 [Rhac]
 Tip=Upgrade to Improved |cffffcc00M|rasonry,Upgrade to Advanced |cffffcc00M|rasonry,Upgrade to Imbued |cffffcc00M|rasonry
 Hotkey=M,M,M
 
-//flying machine bombs
+//飞行机器炸弹
 [Rhgb]
 Tip=Research Flying Machine |cffffcc00B|rombs
 Hotkey=B
 
-//improved lumber harvesting upgrades
+//改进伐木效率
 [Rhlh]
 Tip=Improved |cffffcc00L|rumber Harvesting,Advanced |cffffcc00L|rumber Harvesting
 Hotkey=L,L
 
-//defend upgrade
+//防御升级
 [Rhde]
 Tip=Research |cffffcc00D|refend
 Hotkey=D
 
-//war animal training upgrade
+//动物作战训练
 [Rhan]
 Tip=Research |cffffcc00A|rnimal War Training
 Hotkey=A
 
-//priest training upgrade
+//牧师训练升级
 [Rhpt]
 Tip=Pries|cffffcc00t|r Adept Training,Pries|cffffcc00t|r Master Training
 Hotkey=T,T
 
-//sorceress training upgrade
+//女巫 training upgrade
 [Rhst]
 Tip=S|cffffcc00o|rrceress Adept Training,S|cffffcc00o|rrceress Master Training
 Hotkey=O,O
 
-//long rifles upgrade
+//长管火枪升级
 [Rhri]
 Tip=Upgrade to |cffffcc00L|rong Rifles
 Hotkey=L
 
-//magic sentry upgrade
+//魔法岗哨升级
 [Rhse]
 Tip=Research |cffffcc00M|ragic Sentry
 Hotkey=M
 
-//flare upgrade
+//照明弹
 [Rhfl]
 Tip=Research Fla|cffffcc00r|re
 Hotkey=R
 
-//storm hammers upgrade
+//风暴战锤
 [Rhhb]
 Tip=Research Storm |cffffcc00H|rammers
 Hotkey=H
 
-//barrage upgrade
+//弹幕攻击
 [Rhrt]
 Tip=Research Barra|cffffcc00g|re
 Hotkey=G
 
-//backpack upgrade
+//背包技能
 [Rhpm]
 Tip=Research |cffffcc00B|rackpack
 Hotkey=B
 
-//flak cannons upgrade
+//高射炮火
 [Rhfc]
 Tip=Research Flak |cffffcc00C|rannons
 Hotkey=C
 
-//frag shards upgrade
+//碎片攻击
 [Rhfs]
 Tip=Research Fragmentation |cffffcc00S|rhards
 Hotkey=S
 
-//cloud upgrade
+//乌云
 [Rhcd]
 Tip=Research |cffffcc00C|rloud
 Hotkey=C
 
-//altar of kings
+//国王祭坛
 [halt]
 Hotkey=A
 Tip=Build |cffffcc00A|rltar of Kings
 
-//workshop
+//车间
 [harm]	
 Hotkey=W
 Tip=Build |cffffcc00W|rorkshop
 
-//arcane sanctum
+//神秘圣地
 [hars]
 Hotkey=R
 Tip=Build A|cffffcc00r|rcane Sanctum
 
-//human barracks
+//兵营
 [hbar]
 Hotkey=B
 Tip=Build |cffffcc00B|rarracks
 
-//blacksmith
+//铁匠铺
 [hbla]
 Hotkey=S
 Tip=Build Black|cffffcc00s|rmith
 
-//castle
+//城堡
 [hcas]
 Hotkey=U
 Tip=|cffffcc00U|rpgrade to Castle
 
-//farm
+//农场
 [hhou]
 Hotkey=F
 Tip=Build |cffffcc00F|rarm
 
-//gryphon aviary
+//狮鹫笼
 [hgra]
 Hotkey=G
 Tip=Build |cffffcc00G|rryphon Aviary
 
-//Cannon Tower
+//炮塔
 [hctw]
 Hotkey=C
 Tip=Upgrade to |cffffcc00C|rannon Tower
 
-//guard tower
+//防御塔
 [hgtw]
 Hotkey=G
 Tip=Upgrade to |cffffcc00G|ruard Tower
 
-//scout tower
+//哨塔
 [hwtw]
 Hotkey=T
 Tip=Build Scout |cffffcc00T|rower
 
-//arcane tower
+//神秘之塔
 [hatw]
 Hotkey=N
 Tip=Upgrade to Arca|cffffcc00n|re Tower
 
-// reveal on arcane tower
+//显示
 [AHta]
 Tip=|cffffcc00R|reveal
 Hotkey=R
 
-//arcane vault
+//神秘藏宝室
 [hvlt]
 Hotkey=V
 Tip=Build Arcane |cffffcc00V|rault
 
-//lumber mill
+//伐木场
 [hlum]
 Hotkey=L
 Tip=Build |cffffcc00L|rumber Mill
 
-//keep
+//主城
 [hkee]	
 Hotkey=U
 Tip=|cffffcc00U|rpgrade to Keep
 
-//town hall
+//城镇大厅
 [htow]
 Hotkey=H
 Tip=Build Town |cffffcc00H|rall
@@ -698,7 +698,7 @@ Tip=Train Peon -- (|cffffcc00W|r)
 Hotkey=W
 Tip=Train Raider -- (|cffffcc00W|r)
 
-// Ensnare
+//诱捕
 [Aens]
 Tip=|cffffcc00E|r诱捕
 Hotkey=E
@@ -778,14 +778,14 @@ Untip=“ |cffffcc00F|r灵肉形态”
 Hotkey=F
 Unhotkey=F
 
-// Spirit Link
+//灵魂锁链
 [Aspl]
 Tip=Spirit Link -- (|cffffcc00E|r)
 Hotkey=E
 
 
 /////////////////////////////
-//Orc Bldgs, Upgrades & Abilities
+//兽族建筑物、升级和技能
 /////////////////////////////
 
 //近战武器升级
@@ -1016,7 +1016,7 @@ Hotkey=F
 Researchtip="Learn |cffffcc00F|rar Sight - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Feral Spirit
+//野兽幽魂
 [AOsf]
 
 //地震
@@ -1212,61 +1212,61 @@ Tip=Train |cffffcc00A|rrcher
 Tip=Mo|cffffcc00u|rnt Hippogryph
 Hotkey=U
 
-// Dismount Hippogryph
+//卸载弓箭手和 & 角鹰兽
 [Adec]
 Tip=Dismo|cffffcc00u|rnt Archer & Hippogryph
 Hotkey=U
 
-//dryad
+//树妖
 [edry]
 Hotkey=D
 Tip=Train |cffffcc00D|rryad
 
-// Auto-Dispel Magic
+//驱逐魔法
 [Aadm]
 Tip=A|cffffcc00b|rolish Magic
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
 Hotkey=B
 Unhotkey=B
 
-//hippogryph
+//角鹰兽
 [ehip]
 Hotkey=H
 Tip=Train |cffffcc00H|rippogryph
 
-// Pick up Archer
+//搭载弓箭手
 [Aco3]
 Tip=Pick |cffffcc00u|rp Archer
 Hotkey=U
 
-//mountain giant
+//山岭巨人
 [emtg]
 Hotkey=G
 Tip=Train Mountain |cffffcc00G|riant
 
-// War Club
+//拔树
 [Agra]
 Tip=|cffffcc00W|rar Club
 Hotkey=W
 
-// Taunt
+//嘲讽
 [Atau]
 Tip=|cffffcc00T|raunt
 Hotkey=T
 
-//faerie dragon
+//精灵龙
 [efdr]
 Hotkey=F
 Tip=Train |cffffcc00F|raerie Dragon
 
-// Mana Flare
+//魔力之焰
 [Amfl]
 Tip=Mana |cffffcc00F|rlare
 Untip=Stop Mana |cffffcc00F|rlare
 Hotkey=F
 Unhotkey=F
 
-// Phase Shift
+//变相移动
 [Apsh]
 Tip=Phas|cffffcc00e|r Shift
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
@@ -1275,216 +1275,216 @@ Unhotkey=E
 
 
 ////////////////////////////
-//Night Elf Bldgs, Upgrades & Abilities
+//暗夜精灵建筑、升级和技能
 ////////////////////////////
 
-//strength of the moon upgrades
+//月之力量升级
 [Resm]
 Tip=Upgrade to Strength of the |cffffcc00M|roon,Upgrade to Improved Strength of the |cffffcc00M|roon,Upgrade to Advanced Strength of the |cffffcc00M|roon
 Hotkey=M,M,M
 
-//strength of the wild upgrades
+//野性力量升级
 [Resw]
 Tip=Upgrade to Strength of the |cffffcc00W|rild,Upgrade to Improved Strength of the |cffffcc00W|rild,Upgrade to Advanced Strength of the |cffffcc00W|rild
 Hotkey=W,W,W
 
-//moon armor upgrades
+//月之护甲升级
 [Rema]
 Tip=Upgrade to Moon |cffffcc00A|rrmor,Upgrade to Improved Moon |cffffcc00A|rrmor,Upgrade to Advanced Moon |cffffcc00A|rrmor
 Hotkey=A,A,A
 
-//reinforced hide upgrades
+//加强隐藏升级
 [Rerh]
 Tip=Upgrade to |cffffcc00R|reinforced Hides,Upgrade to Improved |cffffcc00R|reinforced Hides,Upgrade to Advanced |cffffcc00R|reinforced Hides
 Hotkey=R,R,R
 
-//ultravision
+//夜视能力
 [Reuv]
 Tip=Upgrade to |cffffcc00U|rltravision
 Hotkey=U
 
-//nature's blessing upgrade
+//自然的祝福
 [Renb]
 Tip=Research |cffffcc00N|rature's Blessing
 Hotkey=N
 
-//improved bows upgrade
+//硬弓
 [Reib]
 Tip=Research |cffffcc00I|rmproved Bows
 Hotkey=I
 
-//marksmanship upgrade
+//射击术
 [Remk]
 Tip=Research |cffffcc00M|rarksmanship
 Hotkey=M
 
-//sentinel upgrade
+//哨兵
 [Resc]
 Tip=Research |cffffcc00S|rentinel
 Hotkey=S
 
-//moon glaive upgrade
+//月刃
 [Remg]
 Tip=Upgrade Moon |cffffcc00G|rlaive
 Hotkey=G
 
-//druid of the talon training upgrade
+//猛禽德鲁伊训练升级
 [Redt]
 Tip=Druid of the T|cffffcc00a|rlon Adept Training,Druid of the T|cffffcc00a|rlon Master Training
 Hotkey=A,A
 
-//druid of the claw training upgrade
+//利爪德鲁伊训练升级
 [Redc]
 Tip=Druid of the C|cffffcc00l|raw Adept Training,Druid of the C|cffffcc00l|raw Master Training
 Hotkey=L,L
 
-//abolish magic upgrade
+//驱散魔法
 [Resi]
 Tip=Research Aboli|cffffcc00s|rh Magic
 Hotkey=S
 
-//hippogryph taming upgrade
+//角鹰兽 taming upgrade
 [Reht]
 Tip=Research H|cffffcc00i|rppogryph Taming
 Hotkey=I
 
-//corrosive breath upgrade
+//腐蚀喷吐
 [Recb]
 Tip=Research Corrosive |cffffcc00B|rreath
 Hotkey=B
 
-//vorpal blades upgrade
+//穿刺剑刃
 [Repb]
 Tip=Research Vor|cffffcc00p|ral Blades
 Hotkey=P
 
-//resistant skin upgrade
+//抗性皮肤
 [Rers]
 Tip=Research Resis|cffffcc00t|rant Skin
 Hotkey=T
 
-//hardened skin upgrade
+//硬化皮肤
 [Rehs]
 Tip=Research |cffffcc00H|rardened Skin
 Hotkey=H
 
-//mark of the claw upgrade
+//利爪之痕
 [Reeb]
 Tip=Research |cffffcc00M|rark of the Claw
 Hotkey=M
 
-//mark of the talon upgrade
+//猛禽之痕
 [Reec]
 Tip=Research |cffffcc00M|rark of the Talon
 Hotkey=M
 
-//wellspring upgrade
+//月井之春
 [Rews]
 Tip=Research W|cffffcc00e|rll Spring
 Hotkey=E
 
-//backpack upgrade
+//背包技能
 [Repm]
 Tip=Research |cffffcc00B|rackpack
 Hotkey=B
 
-// Eat Tree
+//吞食树木
 [Aeat]
 Tip=|cffffcc00E|rat Tree
 Hotkey=E
 
-// Root
+//起立
 [Aroo]
 Tip=|cffffcc00R|root
 Hotkey=R
 Untip=Up|cffffcc00r|root
 Unhotkey=R
 
-//ancient protector
+//远古保护者
 [etrp]
 Hotkey=P
 Tip=Create Ancient |cffffcc00P|rrotector
 
-//tree of life
+//生命之树
 [etol]
 Hotkey=T
 Tip=Create |cffffcc00T|rree of Life
 
-// Entangle gold mine
+//缠绕金矿
 [Aent]
 Tip=Entangle |cffffcc00G|rold Mine
 Hotkey=G
 
-// Entangled Gold Mine Cargo (load/unload)
+//缠绕金矿（装载/卸载）
 [Aenc]
 Tip=|cffffcc00L|road
 Hotkey=L
 Untip=|cffffcc00U|rnload All
 Unhotkey=U
 
-// Cargo Load entangled mine
+//装载小精灵
 [Slo2]
 Tip=|cffffcc00L|road Wisp
 Hotkey=L
 
-// Cargo Unload (Instant, gold mine)
+// 卸载全部
 [Adri]
 Tip=|cffffcc00U|rnload All
 Hotkey=U
 
 
 
-//upgrade to tree of ages
+//升级到远古之树
 [etoa]
 Hotkey=U
 Tip=|cffffcc00U|rpgrade to Tree of Ages
 
-//upgrade to tree of eternity
+//升级到永恒之树
 [etoe]
 Hotkey=U
 Tip=|cffffcc00U|rpgrade to Tree of Eternity
 
-//hunter's hall
+//猎手大厅
 [edob]
 Hotkey=H
 Tip=Create |cffffcc00H|runter's Hall
 
-//altar of elders
+//长者祭坛
 [eate]
 Hotkey=A
 Tip=Create |cffffcc00A|rltar of Elders
 
-//ancient of lore
+//知识古树
 [eaoe]
 Hotkey=L
 Tip=Create Ancient of |cffffcc00L|rore
 
-//ancient of war
+//战争古树
 [eaom]
 Hotkey=R
 Tip=Create Ancient of Wa|cffffcc00r|r
 
-//ancient of wind
+//风之古树
 [eaow]
 Hotkey=W
 Tip=Create Ancient of |cffffcc00W|rind
 
-//ancient of wonders
+//奇迹古树
 [eden]
 Hotkey=D
 Tip=Build Ancient of Won|cffffcc00d|rers
 
-//chimaera roost
+//奇美拉栖木
 [edos]
 Hotkey=C
 Tip=Create |cffffcc00C|rhimaera Roost
 
-//moon well
+//月亮井
 [emow]
 Hotkey=M
 Tip=Create |cffffcc00M|roon Well
 
-// Moon pool mana replenish
+//补充魔法和生命值
 [Ambt]
 Tip=|cffffcc00R|replenish Mana and Life
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
@@ -1492,24 +1492,24 @@ Hotkey=R
 Unhotkey=R
 
 //////////////////////////////
-//Night Elf Heroes & Abilities
+//暗夜精灵英雄和技能
 //////////////////////////////
 
-//Demon Hunter
+//恶魔猎手
 [Edem]
 Hotkey=D
 Tip=Summon |cffffcc00D|remon Hunter
 Revivetip=Revive |cffffcc00D|remon Hunter
 Awakentip=Revive |cffffcc00D|remon Hunter
 
-// Mana Burn
+//法力燃烧
 [AEmb]
 Tip=Mana |cffffcc00B|rurn - [|cffffcc00Level 1|r],Mana |cffffcc00B|rurn - [|cffffcc00Level 2|r],Mana |cffffcc00B|rurn - [|cffffcc00Level 3|r]
 Hotkey=B
 Researchtip="Learn Mana |cffffcc00B|rurn - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
-// Immolation
+//献祭
 [AEim]
 Tip=Activate Immo|cffffcc00l|ration - [|cffffcc00Level 1|r],Activate Immo|cffffcc00l|ration - [|cffffcc00Level 2|r],Activate Immo|cffffcc00l|ration - [|cffffcc00Level 3|r]
 Hotkey=L
@@ -1518,68 +1518,68 @@ Unhotkey=L
 Researchtip="Learn Immo|cffffcc00l|ration - [|cffffcc00Level %d|r]"
 Researchhotkey=L
 
-// Evasion
+//闪避
 [AEev]
 Tip=Evasion - [|cffffcc00Level 1|r],Evasion - [|cffffcc00Level 2|r],Evasion - [|cffffcc00Level 3|r]
 Researchtip="Learn |cffffcc00E|rvasion - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-// Metamorphosis
+//变身
 [AEme]
 Tip=Me|cffffcc00t|ramorphosis
 Hotkey=T
 Researchtip=Learn Me|cffffcc00t|ramorphosis
 Researchhotkey=T
 
-//keeper of the grove
+//主城er of the grove
 [Ekee]
 Hotkey=K
 Tip=Summon |cffffcc00K|reeper of the Grove
 Revivetip=Revive |cffffcc00K|reeper of the Grove
 Awakentip=Revive |cffffcc00K|reeper of the Grove
 
-// Entangling Roots
+//纠缠根须
 [AEer]
 Tip=|cffffcc00E|rntangling Roots - [|cffffcc00Level 1|r],|cffffcc00E|rntangling Roots - [|cffffcc00Level 2|r],|cffffcc00E|rntangling Roots - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip="Learn |cffffcc00E|rntangling Roots - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-// Force of Nature
+//自然之力
 [AEfn]
 Tip=|cffffcc00F|rorce of Nature - [|cffffcc00Level 1|r],|cffffcc00F|rorce of Nature - [|cffffcc00Level 2|r],|cffffcc00F|rorce of Nature - [|cffffcc00Level 3|r]
 Hotkey=F
 Researchtip="Learn |cffffcc00F|rorce of Nature - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Thorns Aura
+//荆棘光环
 [AEah]
 Tip=Thorns Aura - [|cffffcc00Level 1|r],Thorns Aura - [|cffffcc00Level 2|r],Thorns Aura - [|cffffcc00Level 3|r]
 Researchtip="Learn Tho|cffffcc00r|rns Aura - [|cffffcc00Level %d|r]"
 Researchhotkey=R
 
-// Tranquility
+//宁静
 [AEtq]
 Tip=|cffffcc00T|rranquility
 Hotkey=T
 Researchtip="Learn |cffffcc00T|rranquility"
 Researchhotkey=T
 
-//priestess of the moon
+//月之女祭司
 [Emoo]
 Hotkey=P
 Tip=Summon |cffffcc00P|rriestess of the Moon
 Revivetip=Revive |cffffcc00P|rriestess of the Moon
 Awakentip=Revive |cffffcc00P|rriestess of the Moon
 
-// Scout
+//侦察
 [AEst]
 Tip=S|cffffcc00c|rout - [|cffffcc00Level 1|r],S|cffffcc00c|rout - [|cffffcc00Level 2|r],S|cffffcc00c|rout - [|cffffcc00Level 3|r]
 Hotkey=C
 Researchtip="Learn S|cffffcc00c|rout - [|cffffcc00Level %d|r]"
 Researchhotkey=C
 
-// Searing Arrows
+//灼热之箭
 [AHfa]
 Tip=Sea|cffffcc00r|ring Arrows - [|cffffcc00Level 1|r],Sea|cffffcc00r|ring Arrows - [|cffffcc00Level 2|r],Sea|cffffcc00r|ring Arrows - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
@@ -1588,41 +1588,41 @@ Unhotkey=R
 Researchtip="Learn Sea|cffffcc00r|ring Arrows - [|cffffcc00Level %d|r]"
 Researchhotkey=R
 
-// Trueshot Aura
+//强击光环
 [AEar]
 Tip=Trueshot Aura - [|cffffcc00Level 1|r],Trueshot Aura - [|cffffcc00Level 2|r],Trueshot Aura - [|cffffcc00Level 3|r]
 Researchtip="Learn |cffffcc00T|rrueshot Aura - [|cffffcc00Level %d|r]"
 Researchhotkey=T
 
-// Starfall
+//群星坠落
 [AEsf]
 Tip=Star|cffffcc00f|rall
 Hotkey=F
 Researchtip=Learn Star|cffffcc00f|rall
 Researchhotkey=F
 
-//warden
+//守望者
 [Ewar]
 Hotkey=W
 Tip=Summon |cffffcc00W|rarden
 Revivetip=Revive |cffffcc00W|rarden
 Awakentip=Revive |cffffcc00W|rarden
 
-// Blink
+//闪烁
 [AEbl]
 Tip=|cffffcc00B|rlink - [|cffffcc00Level 1|r],|cffffcc00B|rlink - [|cffffcc00Level 2|r],|cffffcc00B|rlink - [|cffffcc00Level 3|r]
 Hotkey=B
 Researchtip="Learn |cffffcc00B|rlink - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
-// Fan of Knives
+//刀阵旋风
 [AEfk]
 Tip=|cffffcc00F|ran of Knives - [|cffffcc00Level 1|r],|cffffcc00F|ran of Knives - [|cffffcc00Level 2|r],|cffffcc00F|ran of Knives - [|cffffcc00Level 3|r]
 Hotkey=F
 Researchtip="Learn |cffffcc00F|ran of Knives - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Shadow Strike
+//暗影突袭
 [AEsh]
 Tip=Sha|cffffcc00d|row Strike - [|cffffcc00Level 1|r],Sha|cffffcc00d|row Strike - [|cffffcc00Level 2|r],Sha|cffffcc00d|row Strike - [|cffffcc00Level 3|r]
 Hotkey=D
@@ -1630,7 +1630,7 @@ Researchtip="Learn Sha|cffffcc00d|row Strike - [|cffffcc00Level %d|r]"
 Researchhotkey=D
 
 
-// Avatar of Vengeance
+//复仇之魂
 [AEsv]
 Tip=|cffffcc00V|rengeance
 Hotkey=V
@@ -1638,7 +1638,7 @@ Researchtip="Learn |cffffcc00V|rengeance"
 Researchhotkey=V
 
 
-// Vengeance
+// 复仇之魂
 [Avng]
 Tip=Spirit of |cffffcc00V|rengeance
 Hotkey=V
@@ -1646,393 +1646,393 @@ Untip="|cffc3dbffRight-click to activate auto-casting."
 
 
 /////////////////////////////
-//Undead Units & Abilities
+//不死族单位和技能
 /////////////////////////////
 
-//acolyte
+//侍僧
 [uaco]
 Tip=Train A|cffffcc00c|rolyte
 Hotkey=C
 
-// Unsummon
+//反召唤建筑物
 [Auns]
 Tip=|cffffcc00U|rnsummon Building
 Hotkey=U
 
-// Acolyte Harvest
+// 采集
 [Aaha]
 Tip=|cffffcc00G|rather
 Untip=|cffffcc00R|return Resources
 Hotkey=G
 Unhotkey=R
 
-// Restore (acolyte repair)
+//恢复
 [Arst]
 Tip=|cffffcc00R|restore
 Untip="|cffc3dbffRight-click to activate auto-casting."
 Hotkey=R
 Unhotkey=R
 
-//abomination
+//憎恶
 [uabo]
 Tip=Train |cffffcc00A|rbomination
 Hotkey=A
 
-// Cannibalize (abomination)
+//吞食尸体
 [Acn2]
 Tip=|cffffcc00C|rannibalize
 Hotkey=C
 
-//banshee
+//女妖
 [uban]
 Tip=Train |cffffcc00B|ranshee
 Hotkey=B
 
-// Curse
+//诅咒
 [Acrs]
 Tip=|cffffcc00C|rurse
 Untip="|cffc3dbffRight-click to activate auto-casting."
 Hotkey=C
 Unhotkey=C
 
-// Anti-magic Shell
+//反魔法外壳
 [Aams]
 Tip=A|cffffcc00n|rti-magic Shell
 Hotkey=N
 
-// Possession
+//占据
 [Apos]
 Tip=P|cffffcc00o|rssession
 Hotkey=O
 
-//crypt fiend
+//地穴 fiend
 [ucry]
 Tip=Train Crypt |cffffcc00F|riend
 Hotkey=F
 
-// Web
+//蛛网
 [Aweb]
 Tip=|cffffcc00W|reb
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting."
 Hotkey=W
 Unhotkey=W
 
-// Burrow (crypt fiend)
+//钻地
 [Abur]
 Tip=|cffffcc00B|rurrow
 Untip=Un|cffffcc00b|rurrow
 Hotkey=B
 Unhotkey=B
 
-//frost wyrm
+//冰霜巨龙
 [ufro]
 Tip=Train |cffffcc00F|rrost Wyrm
 Hotkey=F
 
-//gargoyle
+//石像鬼
 [ugar]
 Tip=Train G|cffffcc00a|rrgoyle
 Hotkey=A
 
-// Stone Form
+//石像形态
 [Astn]
 Tip=Stone |cffffcc00F|rorm
 Hotkey=F
 Untip=Gargoyle |cffffcc00F|rorm
 Unhotkey=F
 
-//ghoul
+//食尸鬼
 [ugho]
 Tip=Train |cffffcc00G|rhoul
 Hotkey=G
 
-// Cannibalize (ghoul)
+// 吞食尸体
 [Acan]
 Tip=|cffffcc00C|rannibalize
 Hotkey=C
 
-//necromancer
+//亡灵巫师
 [unec]
 Tip=Train |cffffcc00N|recromancer
 Hotkey=N
 
-// Raise Dead
+//复活死尸
 [Arai]
 Tip=|cffffcc00R|raise Dead
 Untip="|cffc3dbffRight-click to activate auto-casting."
 Hotkey=R
 Unhotkey=R
 
-// Unholy Frenzy
+//邪恶狂热
 [Auhf]
 Tip=|cffffcc00U|rnholy Frenzy
 Hotkey=U
 
-// Cripple
+//残废
 [Acri]
 Tip=|cffffcc00C|rripple
 Hotkey=C
 
-//meat wagon
+//绞肉车
 [umtw]
 Tip=Train |cffffcc00M|reat Wagon
 Hotkey=M
 
-// Load Corpse
+//得到尸体
 [Amel]
 Tip=Get |cffffcc00C|rorpse
 Untip="|cffc3dbffRight-click to activate auto-casting."
 Hotkey=C
 Unhotkey=C
 
-// Unload Corpse
+//卸载尸体
 [Amed]
 Tip=|cffffcc00D|rrop All Corpses
 Hotkey=D
 
-//obsidian statue
+//十胜石雕像
 [uobs]
 Tip=Create |cffffcc00O|rbsidian Statue
 Hotkey=O
 
-// Spirit Touch 
+//灵魂触摸 
 [Arpm]
 Tip=Spirit Tou|cffffcc00c|rh
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
 Hotkey=C
 Unhotkey=C
 
-// Essence of Blight
+//枯萎精髓
 [Arpl]
 Tip=Essence of |cffffcc00B|rlight
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
 Hotkey=B
 Unhotkey=B
 
-//destroyer
+//变形为破坏者
 [ubsp]
 Tip=Morph into Des|cffffcc00t|rroyer
 Hotkey=T
 
-// Orb of Annihilation
+//毁灭之球
 [Afak]
 Tip="|cffffcc00O|rrb of Annihilation"
 Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
 Hotkey=O
 Unhotkey=O
 
-// Devour Magic
+//吞噬魔法
 [Advm]
 Tip="|cffffcc00D|revour Magic"
 Hotkey=D
 
 
-// Absorb Mana
+//吸收魔法
 [Aabs]
 Tip="A|cffffcc00b|rsorb Mana"
 Hotkey=B
 
 
 /////////////////////////////
-//Undead Bldgs, Upgrades & Abilities
+//不死族建筑物、升级和技能
 /////////////////////////////
 
-//destroy form upgrade
+//研究破坏者形态
 [Rusp]
 Tip=Research Des|cffffcc00t|rroyer Form
 Hotkey=T
 
-//unholy strength upgrades
+//邪恶力量升级
 [Rume]
 Tip=Upgrade to Unholy |cffffcc00S|rtrength,Upgrade to Improved Unholy |cffffcc00S|rtrength,Upgrade to Advanced Unholy |cffffcc00S|rtrength
 Hotkey=S,S,S
 
-//creature attack upgrades
+//生物攻击升级
 [Rura]
 Tip=Upgrade to Creature |cffffcc00A|rttack,Upgrade to Improved Creature |cffffcc00A|rttack,Upgrade to Advanced Creature |cffffcc00A|rttack
 Hotkey=A,A,A
 
-//unholy armor upgrades
+//邪恶装甲升级
 [Ruar]
 Tip=Upgrade to |cffffcc00U|rnholy Armor,Upgrade to Improved |cffffcc00U|rnholy Armor,Upgrade to Advanced |cffffcc00U|rnholy Armor
 Hotkey=U,U,U
 
-//creature carapace upgrades
+//生物甲壳升级
 [Rucr]
 Tip=Upgrade to Creature |cffffcc00C|rarapace,Upgrade to Improved Creature |cffffcc00C|rarapace,Upgrade to Advanced Creature |cffffcc00C|rarapace
 Hotkey=C,C,C
 
-//cannabalize upgrade
+//吞食尸体
 [Ruac]
 Tip=Research |cffffcc00C|rannibalize
 Hotkey=C
 
-//ghoul frenzy upgrade
+//食尸鬼狂热
 [Rugf]
 Tip=Research Ghoul Fren|cffffcc00z|ry
 Hotkey=Z
 
-//web upgrade
+//蛛网
 [Ruwb]
 Tip=Research |cffffcc00W|reb
 Hotkey=W
 
-//stone form upgrade
+//石像形态
 [Rusf]
 Tip=Research |cffffcc00S|rtone Form
 Hotkey=S
 
-//necromancer training upgrades
+//亡灵巫师训练升级
 [Rune]
 Tip=N|cffffcc00e|rcromancer Adept Training,N|cffffcc00e|rcromancer Master Training
 Hotkey=E,E
 
-//banshee training upgrades
+//女妖训练升级
 [Ruba]
 Tip=B|cffffcc00a|rnshee Adept Training,B|cffffcc00a|rnshee Master Training
 Hotkey=A,A
 
-//freezing breath upgrade
+//冰冻喷吐
 [Rufb]
 Tip=Research Freezing |cffffcc00B|rreath
 Hotkey=B
 
-//skeletal longevity upgrade
+//骨质增强术
 [Rusl]
 Tip=Research |cffffcc00S|rkeletal Longevity
 Hotkey=S
 
-//disease cloud upgrade
+//疾病云雾
 [Rupc]
 Tip=Research |cffffcc00D|risease Cloud
 Hotkey=D
 
-//skeletal mastery upgrade
+//骷髅法术
 [Rusm]
 Tip=Research Skeletal |cffffcc00M|rastery
 Hotkey=M
 
-//burrow upgrade
+//钻地
 [Rubu]
 Tip=Research |cffffcc00B|rurrow
 Hotkey=B
 
-//exhume corpses upgrade
+//挖掘尸体
 [Ruex]
 Tip=Research |cffffcc00E|rxhume Corpses
 Hotkey=E
 
-//backpack upgrade
+//背包技能
 [Rupm]
 EditorSuffix= (Undead)
 Tip=Research |cffffcc00B|rackpack
 Hotkey=B
 
-//boneyard
+//埋骨地
 [ubon]
 Tip=Summon |cffffcc00B|roneyard
 Hotkey=B
 
-//sacrificial pit
+//牺牲深渊
 [usap]
 Tip=Summon |cffffcc00S|racrificial Pit
 Hotkey=S
 
-// Sacrifice (Acolyte's button)
+//牺牲
 [Alam]
 Tip=Sa|cffffcc00c|rrifice
 Hotkey=C
 
-//slaughterhouse
+//屠宰场
 [uslh]
 Tip=Summon Slaughter|cffffcc00h|rouse
 Hotkey=H
 
-//graveyard
+//坟场
 [ugrv]
 Tip=Summon Gra|cffffcc00v|reyard
 Hotkey=V
 
-//altar of darkness
+//黑暗祭坛
 [uaod]
 Tip=Summon |cffffcc00A|rltar of Darkness
 Hotkey=A
 
-//necropolis
+//大墓地
 [unpl]
 Tip=Summon |cffffcc00N|recropolis
 Hotkey=N
 
-//halls of the dead
+//亡者大厅
 [unp1]
 Tip=|cffffcc00U|rpgrade to Halls of the Dead
 Hotkey=U
 
-//black citadel
+//黑色城堡
 [unp2]
 Tip=|cffffcc00U|rpgrade to Black Citadel
 Hotkey=U
 
-//crypt
+//地穴
 [usep]
 Tip=Summon |cffffcc00C|rrypt
 Hotkey=C
 
-//temple of the damned
+//诅咒神庙
 [utod]
 Tip=Summon |cffffcc00T|remple of the Damned
 Hotkey=T
 
-//tomb of relics
+//古墓废墟
 [utom]
 Hotkey=R
 Tip=Summon Tomb of |cffffcc00R|relics
 
-//haunted gold mine
+//闹鬼金矿
 [ugol]
 Tip=Haunt |cffffcc00G|rold Mine
 Hotkey=G
 
-//ziggurat
+//通灵塔
 [uzig]
 Tip=Summon |cffffcc00Z|riggurat
 Hotkey=Z
 
-//spirit tower
+//幽魂之塔
 [uzg1]
 Tip=Upgrade to Spirit |cffffcc00T|rower
 Hotkey=T
 
-//nerubian tower
+//蛛网怪塔
 [uzg2]
 Tip=Upgrade to |cffffcc00N|rerubian Tower
 Hotkey=N
 
 /////////////////////////////
-//Undead Heroes & Abilities
+//不死族英雄和技能
 /////////////////////////////
 
-//crypt lord
+//地穴 lord
 [Ucrl]
 Tip=Summon |cffffcc00C|rrypt Lord
 Hotkey=C
 Revivetip=Revive |cffffcc00C|rrypt Lord
 Awakentip=Revive |cffffcc00C|rrypt Lord
 
-// Impale
+//穿刺
 [AUim]
 Tip=Impal|cffffcc00e|r - [|cffffcc00Level 1|r],Impal|cffffcc00e|r - [|cffffcc00Level 2|r],Impal|cffffcc00e|r - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip="Learn Impal|cffffcc00e|r - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-//spiked carapace
+//尖刺外壳
 [AUts]
 Tip=Spiked Carapace - [|cffffcc00Level 1|r],Spiked Carapace - [|cffffcc00Level 2|r],Spiked Carapace - [|cffffcc00Level 3|r]
 Researchtip="Learn |cffffcc00S|rpiked Carapace - [|cffffcc00Level %d|r]"
 Researchhotkey=S
 
-// Carrion Beetles
+//腐尸甲虫
 [AUcb]
 Tip=|cffffcc00C|rarrion Beetles - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Beetles - [|cffffcc00Level 3|r]
 Hotkey=C
@@ -2040,110 +2040,110 @@ Researchtip="Learn |cffffcc00C|rarrion Beetles - [|cffffcc00Level %d|r]"
 Researchhotkey=C
 Untip="|cffc3dbffRight-click to activate auto-casting."
 
-// Burrow (scarab lvl 2)
+//钻地（等级2）
 [Abu2]
 Tip=|cffffcc00B|rurrow
 Untip=Un|cffffcc00b|rurrow
 Hotkey=B
 Unhotkey=B
 
-// Burrow (scarab lvl 3)
+//钻地（等级3）
 [Abu3]
 Tip=|cffffcc00B|rurrow
 Untip=Un|cffffcc00b|rurrow
 Hotkey=B
 Unhotkey=B
 
-// Locust Swarm
+//蝗虫群
 [AUls]
 Tip=|cffffcc00L|rocust Swarm
 Hotkey=L
 Researchtip="Learn |cffffcc00L|rocust Swarm"
 Researchhotkey=L
 
-//death knight
+//死亡骑士
 [Udea]
 Tip=Summon |cffffcc00D|reath Knight
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
 
-// Death Coil
+//死亡缠绕
 [AUdc]
 Tip=Death |cffffcc00C|roil - [|cffffcc00Level 1|r],Death |cffffcc00C|roil - [|cffffcc00Level 2|r],Death |cffffcc00C|roil - [|cffffcc00Level 3|r]
 Hotkey=C
 Researchtip="Learn Death |cffffcc00C|roil - [|cffffcc00Level %d|r]"
 Researchhotkey=C
 
-// Unholy Aura
+//邪恶光环
 [AUau]
 Tip=Unholy Aura - [|cffffcc00Level 1|r],Unholy Aura - [|cffffcc00Level 2|r],Unholy Aura - [|cffffcc00Level 3|r]
 Researchtip="Learn |cffffcc00U|rnholy Aura - [|cffffcc00Level %d|r]"
 Researchhotkey=U
 
-// Death Pact
+//死亡契约
 [AUdp]
 Tip=D|cffffcc00e|rath Pact - [|cffffcc00Level 1|r],D|cffffcc00e|rath Pact - [|cffffcc00Level 2|r],D|cffffcc00e|rath Pact - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip="Learn D|cffffcc00e|rath Pact - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-// Animate Dead
+//操纵死尸
 [AUan]
 Tip=Animate |cffffcc00D|read
 Hotkey=D
 Researchtip="Learn Animate |cffffcc00D|read"
 Researchhotkey=D
 
-//dreadlord
+//恐惧魔王
 [Udre]
 Tip=Summon Dr|cffffcc00e|radlord
 Revivetip=Revive Dr|cffffcc00e|radlord
 Awakentip=Revive Dr|cffffcc00e|radlord
 Hotkey=E
 
-// Carrion Swarm
+//腐臭蜂群
 [AUcs]
 Tip=|cffffcc00C|rarrion Swarm - [|cffffcc00Level 1|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 2|r],|cffffcc00C|rarrion Swarm - [|cffffcc00Level 3|r]
 Hotkey=C
 Researchtip="Learn |cffffcc00C|rarrion Swarm - [|cffffcc00Level %d|r]"
 Researchhotkey=C
 
-// Sleep
+//睡眠
 [AUsl]
 Tip=Sl|cffffcc00e|rep - [|cffffcc00Level 1|r],Sl|cffffcc00e|rep - [|cffffcc00Level 2|r],Sl|cffffcc00e|rep - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip="Learn Sl|cffffcc00e|rep - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-// Vampiric Aura
+//吸血光环
 [AUav]
 Tip=Vampiric Aura - [|cffffcc00Level 1|r],Vampiric Aura - [|cffffcc00Level 2|r],Vampiric Aura - [|cffffcc00Level 3|r]
 Researchtip="Learn |cffffcc00V|rampiric Aura - [|cffffcc00Level %d|r]"
 Researchhotkey=V
 
-//inferno
+//地狱火
 [AUin]
 Tip=I|cffffcc00n|rferno
 Hotkey=N
 Researchtip=Learn I|cffffcc00n|rferno
 Researchhotkey=N
 
-//lich
+//巫妖
 [Ulic]
 Tip=Summon |cffffcc00L|rich
 Revivetip=Revive |cffffcc00L|rich
 Awakentip=Revive |cffffcc00L|rich
 Hotkey=L
 
-// Frost Nova
+//霜冻新星
 [AUfn]
 Tip=Frost |cffffcc00N|rova - [|cffffcc00Level 1|r],Frost |cffffcc00N|rova - [|cffffcc00Level 2|r],Frost |cffffcc00N|rova - [|cffffcc00Level 3|r]
 Hotkey=N
 Researchtip="Learn Frost |cffffcc00N|rova - [|cffffcc00Level %d|r]"
 Researchhotkey=N
 
-// Frost Armor (Autocast, Lich)
+//霜冻护甲
 [AUfu]
 Tip=|cffffcc00F|rrost Armor - [|cffffcc00Level 1|r],|cffffcc00F|rrost Armor - [|cffffcc00Level 2|r],|cffffcc00F|rrost Armor - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting."
@@ -2151,14 +2151,14 @@ Hotkey=F
 Researchtip="Learn |cffffcc00F|rrost Armor - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Dark Ritual
+//黑暗仪式
 [AUdr]
 Tip=Dark |cffffcc00R|ritual - [|cffffcc00Level 1|r],Dark |cffffcc00R|ritual - [|cffffcc00Level 2|r],Dark |cffffcc00R|ritual - [|cffffcc00Level 3|r]
 Hotkey=R
 Researchtip="Learn Dark |cffffcc00R|ritual - [|cffffcc00Level %d|r]"
 Researchhotkey=R
 
-// Death And Decay
+//死亡凋零
 [AUdd]
 Tip=|cffffcc00D|reath And Decay
 Hotkey=D
@@ -2167,23 +2167,23 @@ Researchhotkey=D
 
 
 //////////////////////////////////////////////////////
-// Neutral heroes & neutral hero abilities
-// Includes neutral hero summoned unit abilities
-// Does not include mercenaries or mercenary abilities
+// 中立英雄，中立英雄技能
+// 包括中立英雄召唤单位技能
+// 并不包括雇佣兵和雇佣兵技能
 //////////////////////////////////////////////////////
 
 /////////////////////
-// Sea Witch Abilities
+// 娜迦女海巫技能
 /////////////////////
 
-//sea witch
+//娜迦女海巫
 [Nngs]
 Hotkey=G
 Tip=Summon Na|cffffcc00g|ra Sea Witch
 Revivetip=Revive Na|cffffcc00g|ra Sea Witch
 Awakentip=Revive Na|cffffcc00g|ra Sea Witch
 
-// Mana Shield (Sea Witch)
+//魔法护盾
 [ANms]
 Tip=Activate Ma|cffffcc00n|ra Shield - [|cffffcc00Level 1|r],Activate Ma|cffffcc00n|ra Shield - [|cffffcc00Level 2|r],Activate Ma|cffffcc00n|ra Shield - [|cffffcc00Level 3|r]
 Untip=Deactivate Ma|cffffcc00n|ra Shield
@@ -2192,21 +2192,21 @@ Unhotkey=N
 Researchtip="Learn Ma|cffffcc00n|ra Shield - [|cffffcc00Level %d|r]"
 Researchhotkey=N
 
-// Forked Lightning (Sea Witch)
+//叉状闪电
 [ANfl]
 Tip=|cffffcc00F|rorked Lightning - [|cffffcc00Level 1|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 2|r],|cffffcc00F|rorked Lightning - [|cffffcc00Level 3|r]
 Hotkey=F
 Researchtip="Learn |cffffcc00F|rorked Lightning - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Frost Arrows (Sea Witch)
+//霜冻之箭
 [ANfa]
 Tip=Frost Arrows - [|cffffcc00Level 1|r] -- (|cffffcc00E|r),Frost Arrows - [|cffffcc00Level 2|r] -- (|cffffcc00E|r),Frost Arrows - [|cffffcc00Level 3|r] -- (|cffffcc00E|r)
 Hotkey=E
 Researchtip=L|cffffcc00e|rarn Frost Arrows - [|cffffcc00Level %d|r]
 Researchhotkey=E
 
-// Tornado (Sea Witch)
+//龙卷风
 [ANto]
 Tip=|cffffcc00T|rornado
 Hotkey=T
@@ -2214,36 +2214,36 @@ Researchtip="Learn |cffffcc00T|rornado"
 Researchhotkey=T
 
 /////////////////////
-// Pit Lord
+// 深渊魔王
 /////////////////////
 
-//pit lord
+//深渊魔王
 [Nplh]
 Hotkey=I
 Tip=Summon P|cffffcc00i|rt Lord
 Revivetip=Revive P|cffffcc00i|rt Lord
 Awakentip=Revive P|cffffcc00i|rt Lord
 
-// Howl of Terror (Pit Lord)
+//恐怖嚎叫
 [ANht]
 Tip=Ho|cffffcc00w|rl of Terror - [|cffffcc00Level 1|r],Ho|cffffcc00w|rl of Terror - [|cffffcc00Level 2|r],Ho|cffffcc00w|rl of Terror - [|cffffcc00Level 3|r]
 Hotkey=W
 Researchtip=Learn Ho|cffffcc00w|rl of Terror - [|cffffcc00Level %d|r]
 Researchhotkey=W
 
-// Rain of Fire (Pit Lord)
+//火焰雨
 [ANrf]
 Tip=Rain of |cffffcc00F|rire - [|cffffcc00Level 1|r],Rain of |cffffcc00F|rire - [|cffffcc00Level 2|r],Rain of |cffffcc00F|rire - [|cffffcc00Level 3|r]
 Hotkey=F
 Researchtip=Learn Rain of |cffffcc00F|rire - [|cffffcc00Level %d|r]
 Researchhotkey=F
 
-// Cleaving Attack (Pit Lord)
+//分裂攻击
 [ANca]
 Researchtip=Learn Cleaving A|cffffcc00t|rtack - [|cffffcc00Level %d|r]
 Researchhotkey=T
 
-// Doom (Pit Lord)
+//毁灭
 [ANdo]
 Tip=Doom -- (|cffffcc00V|r)
 Hotkey=V
@@ -2252,37 +2252,37 @@ Researchhotkey=V
 
 
 ////////////////////////////////
-// Pandaren Brewmaster 
+// 熊猫酒仙 
 ////////////////////////////////
 
-//pandaren brewmaster
+//熊猫酒仙
 [Npbm]
 Hotkey=N
 Tip=Summon Pa|cffffcc00n|rdaren Brewmaster
 Revivetip=Revive Pa|cffffcc00n|rdaren Brewmaster
 Awakentip=Revive Pa|cffffcc00n|rdaren Brewmaster
 
-// Breath of Fire (Pandaren Brewmaster)
+//火焰呼吸
 [ANbf]
 Tip=Breath of |cffffcc00F|rire - [|cffffcc00Level 1|r],Breath of |cffffcc00F|rire - [|cffffcc00Level 2|r],Breath of |cffffcc00F|rire - [|cffffcc00Level 3|r]
 Hotkey=F
 Researchtip="Learn Breath of |cffffcc00F|rire - [|cffffcc00Level %d|r]"
 Researchhotkey=F
 
-// Drunken Brawler (Pandaren Brewmaster)
+//醉拳
 [ANdb]
 Tip=Drunken Brawler - [|cffffcc00Level 1|r],Drunken Brawler - [|cffffcc00Level 2|r],Drunken Brawler - [|cffffcc00Level 3|r]
 Researchtip="Learn Drunken |cffffcc00B|rrawler - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
-// Drunken Haze (Pandaren Brewmaster)
+//醉酒云雾
 [ANdh]
 Tip=Drunk|cffffcc00e|rn Haze - [|cffffcc00Level 1|r],Drunk|cffffcc00e|rn Haze - [|cffffcc00Level 2|r],Drunk|cffffcc00e|rn Haze - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip=L|cffffcc00e|rarn Drunken Haze - [|cffffcc00Level %d|r]
 Researchhotkey=E
 
-// Storm, Earth, and Fire (Pandaren Brewmaster)
+//火土风暴
 [ANef]
 Tip=S|cffffcc00t|rorm; Earth; And Fire
 Hotkey=T
@@ -2291,42 +2291,42 @@ Researchhotkey=T
 
 
 //////////////////////
-//Mini-Panda Abilities
+//小熊猫技能
 //////////////////////
 
-// Wind Walk (wind panda)
+//疾风步
 [ANwk]
 Tip=|cffffcc00W|rind Walk
 Hotkey=W
 
-// cyclone (Wind panda + various creeps -- shared ability)
+//飓风
 [ACcy]
 Tip=|cffffcc00C|ryclone
 Hotkey=C
 
-// dispel magic (wind panda + various creeps -- shared ability)
+//驱逐魔法
 [Adsm]
 Tip=|cffffcc00D|rispel Magic
 Hotkey=D
 
-// Taunt (earth panda)
+//嘲讽 (earth panda)
 [ANta]
 Tip=|cffffcc00T|raunt
 Hotkey=T
 
 
 ////////////////////////
-// Beastmaster
+// 驯兽师
 ////////////////////////
 
-//beastmaster
+//驯兽师
 [Nbst]
 Hotkey=S
 Tip=Summon Bea|cffffcc00s|rtmaster
 Revivetip=Revive Bea|cffffcc00s|rtmaster
 Awakentip=Revive Bea|cffffcc00s|rtmaster
 
-// Summon Bear (Beastmaster)
+//熊
 [ANsg]
 Tip=Summon B|cffffcc00e|rar - [|cffffcc00Level 1|r],Summon B|cffffcc00e|rar - [|cffffcc00Level 2|r],Summon B|cffffcc00e|rar - [|cffffcc00Level 3|r]
 Hotkey=E
@@ -2334,34 +2334,34 @@ Researchtip=L|cffffcc00e|rarn Summon Bear - [|cffffcc00Level %d|r]
 Researchhotkey=E
 
 
-// Summon Quilbeast (Beastmaster)
+//豪猪
 [ANsq]
 Tip=Summon Quilbeast - [|cffffcc00Level 1|r] -- (|cffffcc00W|r),Summon Quilbeast - [|cffffcc00Level 2|r] -- (|cffffcc00W|r),Summon Quilbeast - [|cffffcc00Level 3|r] -- (|cffffcc00W|r)
 Hotkey=W
 Researchtip=Learn Summon Quilbeast - [|cffffcc00Level %d|r] -- (|cffffcc00W|r)
 Researchhotkey=W
 
-// Summon Hawk (Beastmaster)
+//战鹰
 [ANsw]
 Tip=Summon Hawk - [|cffffcc00Level 1|r] -- (|cffffcc00F|r),Summon Hawk - [|cffffcc00Level 2|r] -- (|cffffcc00F|r),Summon Hawk - [|cffffcc00Level 3|r] -- (|cffffcc00F|r)
 Hotkey=F
 Researchtip=Learn Summon Hawk - [|cffffcc00Level %d|r] -- (|cffffcc00F|r)
 Researchhotkey=F
 
-// Stampede (Beastmaster)
+//惊吓
 [ANst]
 Tip=S|cffffcc00t|rampede
 Hotkey=T
 Researchtip=Learn S|cffffcc00t|rampede
 Researchhotkey=T
 
-// Blink (beastmaster bear)
+//闪烁 (beastmaster bear)
 [ANbl]
 Hotkey=B
 Tip=|cffffcc00B|rlink
 
 ///////////////////////
-//Dark Ranger Abilities
+//黑暗游侠技能
 ///////////////////////
 
 [Nbrn]
@@ -2370,7 +2370,7 @@ Tip=Summon Dark |cffffcc00R|ranger
 Revivetip=Revive Dark |cffffcc00R|ranger
 Awakentip=Revive Dark |cffffcc00R|ranger
 
-// Black Arrow (Dark Ranger)
+//黑暗之箭
 [ANba]
 Tip=|cffffcc00B|rlack Arrow - [|cffffcc00Level 1|r],|cffffcc00B|rlack Arrow - [|cffffcc00Level 2|r],|cffffcc00B|rlack Arrow - [|cffffcc00Level 3|r]
 Untip="|cffc3dbffRight-click to activate auto-casting.|r"
@@ -2378,21 +2378,21 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlack Arrow - [|cffffcc00Level %d|r]"
 Researchhotkey=B
 
-// Silence (Dark Ranger)
+//沉默魔法
 [ANsi]
 Tip=Sil|cffffcc00e|rnce - [|cffffcc00Level 1|r],Sil|cffffcc00e|rnce - [|cffffcc00Level 2|r],Sil|cffffcc00e|rnce - [|cffffcc00Level 3|r]
 Hotkey=E
 Researchtip="Learn Sil|cffffcc00e|rnce - [|cffffcc00Level %d|r]"
 Researchhotkey=E
 
-// Life Drain  (Dark Ranger)
+//生命汲取
 [ANdr]
 Tip=Life Drain - [|cffffcc00Level 1|r] -- (|cffffcc00W|r),Life Drain - [|cffffcc00Level 2|r] -- (|cffffcc00W|r),Life Drain - [|cffffcc00Level 3|r] -- (|cffffcc00W|r)
 Hotkey=W
 Researchtip=Learn Life Drain - [|cffffcc00Level %d|r] -- (|cffffcc00W|r)
 Researchhotkey=W
 
-// Charm (Dark Ranger)
+//符咒
 [ANch]
 Tip=|cffffcc00C|rharm
 Hotkey=C
